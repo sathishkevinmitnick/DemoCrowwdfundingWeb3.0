@@ -37,3 +37,6 @@ npm run dev
 Open the app
 
 Visit http://localhost:5173 in your browser
+
+
+![Alt text](URL_to_image)
